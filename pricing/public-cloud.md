@@ -1,4 +1,4 @@
-### Clever Cloud Public
+### Acme Cloud: Public Offer
 
 #### Scalers
 
@@ -32,7 +32,7 @@ MemoryShared|Shared|Shared|1 GB|1 GB|2 GB
 vCPUS|Shared|Shared|1|2|2
 Monthly price| -   € | 15,00 € | 45,00 € | 110,00 € | 300,00 € 
 
-**Elastic Search /  prices for 1 node**|** ROCKETRACCOON **|** BLACKWIDOW **|** STORM **|** HULK **|** PSYLOCKE **|** THING **
+**Elastic Search /  prices for 1 node**|**ROCKETRACCOON**|**BLACKWIDOW**|**STORM**|**HULK**|**PSYLOCKE**|**THING**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 vCPUS|1|2|2|2|4|4
 Disk| 10 GB | 20 GB | 40 GB | 60 GB | 80 GB | 100 GB 
@@ -43,14 +43,13 @@ Monthly price| 45,00 € | 90,00 € | 180,00 € | 270,00 € | 360,00 € | 45
 > - ES: *Indicative Pricing at the end of 2017*
 
 
-**S3**| | | | 
+**S3**|0 to 100 MB| 100 MB to 1 TB | 1 TB to 25 TB | 25 TB to 50 TB
 :-----:|:-----:|:-----:|:-----:|:-----:
-Storage|0 to 100 MB| 100 MB to 1 TB | 1 TB to 25 TB | 25 TB to 50 TB 
 Monthly price per TB|Free| 20,48 € | 15,36 € | 10,24 € 
  |0 to 100 MB| 100 MB to 10 TB | 10 TB to 40 TB | 
 Outbound traffic monthly per GB|Free| 0,09 € | 0,07 € | 
 
-**Redis dedicated**|**S**|** M **|** L **|** XL **|** XXL **
+**Redis dedicated**|**S**|**M**|**L**|**XL**|**XXL**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 Connection limit|100|250|500|500|500
 Databases|100|100|100|100|100
